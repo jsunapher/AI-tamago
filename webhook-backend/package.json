@@ -1,0 +1,10 @@
+{
+  "name": "webhook-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple webhook server for git pull.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
