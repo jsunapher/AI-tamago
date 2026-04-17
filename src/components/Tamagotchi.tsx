@@ -273,7 +273,7 @@ export function Tamagotchi() {
       <CardHeader className="items-center space-y-2">
         <CardTitle className="text-xl">AI Tamago</CardTitle>
         <CardDescription className="text-sm text-gray-500 dark:text-gray-400">
-          第六次测试
+          第六次
         </CardDescription>
         <div className="flex justify-center">
           <div className="flex items-center justify-center h-48 overflow-hidden">
